@@ -25,7 +25,7 @@ const FRENZO_LOOKBOOK = {
           brand: "FRENZO Selection",
           image: "images/001/shirt.webp",
           affiliateUrl: "https://amzn.to/4uJP0rP",
-          category: "Shirt"
+          category: "shirt"
         },
         {
           id: "prod-002",
@@ -33,8 +33,8 @@ const FRENZO_LOOKBOOK = {
           label: "SHOP THE PANT",
           name: "Highlander Men Jeans",
           tagline: "Crafted For Modern Style",
-          brand: "FRENZO Essentials",
-          image: "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=200&h=250&fit=crop&q=80",
+          brand: "FRENZO Selection",
+          image: "image/001/pant.webp",
           affiliateUrl: "https://amzn.to/43Pchha",
           category: "pant"
         },
@@ -45,9 +45,9 @@ const FRENZO_LOOKBOOK = {
           name: "Wide-Leg Linen Trousers",
           tagline: "Urban Stance set for everyday pace",
           brand: "FRENZO Selection",
-          image: "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE03?tag=frenzo-20",
-          category: "bottoms"
+          image: "image/001/shoes.webp",
+          affiliateUrl: "https://amzn.to/3QDv4ci",
+          category: "shoes"
         },
         {
           id: "prod-004",
@@ -55,8 +55,8 @@ const FRENZO_LOOKBOOK = {
           label: "SHOP THE WATCH",
           name: "Sonata Black Analog",
           tagline: "Sleek Quartz Analog Black Dial Black Leather Strap",
-          brand: "FRENZO Footwear",
-          image: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=200&h=250&fit=crop&q=80",
+          brand: "FRENZO Selection",
+          image: "image/001/watch.webp",
           affiliateUrl: "https://amzn.to/3QuJBqL",
           category: "watch"
         }
