@@ -23,7 +23,6 @@ const FRENZO_LOOKBOOK = {
           name: "Relaxed Linen Blazer",
           tagline: "Effortlessly tailored linen for warm days",
           brand: "FRENZO Selection",
-          price: "$129.00",
           image: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE01?tag=frenzo-20",
           category: "outerwear"
@@ -35,7 +34,6 @@ const FRENZO_LOOKBOOK = {
           name: "Silk Camisole",
           tagline: "Lightweight silk with a luxurious drape",
           brand: "FRENZO Essentials",
-          price: "$59.00",
           image: "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE02?tag=frenzo-20",
           category: "tops"
@@ -47,7 +45,6 @@ const FRENZO_LOOKBOOK = {
           name: "Wide-Leg Linen Trousers",
           tagline: "Relaxed silhouette, breathable all day",
           brand: "FRENZO Selection",
-          price: "$89.00",
           image: "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE03?tag=frenzo-20",
           category: "bottoms"
@@ -59,7 +56,6 @@ const FRENZO_LOOKBOOK = {
           name: "Pointed Leather Heels",
           tagline: "Sleek pointed toe, Italian-inspired design",
           brand: "FRENZO Footwear",
-          price: "$145.00",
           image: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE04?tag=frenzo-20",
           category: "shoes"
@@ -82,7 +78,6 @@ const FRENZO_LOOKBOOK = {
           name: "Wool Blend Overcoat",
           tagline: "Premium wool, structured and refined",
           brand: "FRENZO Premium",
-          price: "$249.00",
           image: "https://images.unsplash.com/photo-1544923246-77307dd270b1?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE05?tag=frenzo-20",
           category: "outerwear"
@@ -94,7 +89,6 @@ const FRENZO_LOOKBOOK = {
           name: "Merino Turtleneck",
           tagline: "Ultra-fine merino, soft against the skin",
           brand: "FRENZO Essentials",
-          price: "$79.00",
           image: "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE06?tag=frenzo-20",
           category: "knitwear"
@@ -106,7 +100,6 @@ const FRENZO_LOOKBOOK = {
           name: "Tailored Navy Trousers",
           tagline: "Sharp navy cut with a modern slim fit",
           brand: "FRENZO Selection",
-          price: "$95.00",
           image: "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE07?tag=frenzo-20",
           category: "bottoms"
@@ -118,7 +111,6 @@ const FRENZO_LOOKBOOK = {
           name: "Leather Chelsea Boots",
           tagline: "Classic Chelsea silhouette in full-grain leather",
           brand: "FRENZO Footwear",
-          price: "$189.00",
           image: "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE08?tag=frenzo-20",
           category: "shoes"
@@ -140,7 +132,6 @@ const FRENZO_LOOKBOOK = {
           name: "Oversized Cashmere Knit",
           tagline: "Pure cashmere in an oversized cozy cut",
           brand: "FRENZO Premium",
-          price: "$195.00",
           image: "https://images.unsplash.com/photo-1434389677669-e08b4cda3a07?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE09?tag=frenzo-20",
           category: "knitwear"
@@ -152,7 +143,6 @@ const FRENZO_LOOKBOOK = {
           name: "Pleated Midi Skirt",
           tagline: "Fluid pleats in a rich chocolate tone",
           brand: "FRENZO Selection",
-          price: "$85.00",
           image: "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE10?tag=frenzo-20",
           category: "bottoms"
@@ -164,7 +154,6 @@ const FRENZO_LOOKBOOK = {
           name: "Suede Knee-High Boots",
           tagline: "Luxe suede reaching just above the knee",
           brand: "FRENZO Footwear",
-          price: "$210.00",
           image: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE11?tag=frenzo-20",
           category: "shoes"
@@ -187,7 +176,6 @@ const FRENZO_LOOKBOOK = {
           name: "Linen Button-Down",
           tagline: "Breezy linen in a relaxed button-down cut",
           brand: "FRENZO Essentials",
-          price: "$69.00",
           image: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE12?tag=frenzo-20",
           category: "tops"
@@ -199,7 +187,6 @@ const FRENZO_LOOKBOOK = {
           name: "Relaxed Cotton Chinos",
           tagline: "Soft cotton chino with an easy relaxed fit",
           brand: "FRENZO Selection",
-          price: "$79.00",
           image: "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE13?tag=frenzo-20",
           category: "bottoms"
@@ -211,7 +198,6 @@ const FRENZO_LOOKBOOK = {
           name: "Minimal Leather Sneakers",
           tagline: "Clean leather profile, effortlessly minimal",
           brand: "FRENZO Footwear",
-          price: "$115.00",
           image: "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE14?tag=frenzo-20",
           category: "shoes"
@@ -233,7 +219,6 @@ const FRENZO_LOOKBOOK = {
           name: "Silk Slip Dress",
           tagline: "Champagne silk with a fluid bias cut",
           brand: "FRENZO Premium",
-          price: "$175.00",
           image: "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE15?tag=frenzo-20",
           category: "dresses"
@@ -245,7 +230,6 @@ const FRENZO_LOOKBOOK = {
           name: "Draped Knit Cardigan",
           tagline: "Open-front drape for effortless layering",
           brand: "FRENZO Essentials",
-          price: "$89.00",
           image: "https://images.unsplash.com/photo-1434389677669-e08b4cda3a07?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE16?tag=frenzo-20",
           category: "knitwear"
@@ -257,7 +241,6 @@ const FRENZO_LOOKBOOK = {
           name: "Strappy Leather Sandals",
           tagline: "Delicate leather straps, all-day comfort",
           brand: "FRENZO Footwear",
-          price: "$125.00",
           image: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE17?tag=frenzo-20",
           category: "shoes"
@@ -279,7 +262,6 @@ const FRENZO_LOOKBOOK = {
           name: "Washed Denim Jacket",
           tagline: "Vintage-wash denim with structured shoulders",
           brand: "FRENZO Selection",
-          price: "$119.00",
           image: "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE18?tag=frenzo-20",
           category: "outerwear"
@@ -291,7 +273,6 @@ const FRENZO_LOOKBOOK = {
           name: "Heavyweight Cotton Tee",
           tagline: "240gsm cotton with a clean boxy silhouette",
           brand: "FRENZO Essentials",
-          price: "$39.00",
           image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE19?tag=frenzo-20",
           category: "tops"
@@ -303,7 +284,6 @@ const FRENZO_LOOKBOOK = {
           name: "Pleated Wide Trousers",
           tagline: "High-waist pleats with an elegant wide leg",
           brand: "FRENZO Selection",
-          price: "$95.00",
           image: "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE20?tag=frenzo-20",
           category: "bottoms"
@@ -315,7 +295,6 @@ const FRENZO_LOOKBOOK = {
           name: "Suede Penny Loafers",
           tagline: "Velvety suede with a timeless penny strap",
           brand: "FRENZO Footwear",
-          price: "$155.00",
           image: "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE21?tag=frenzo-20",
           category: "shoes"
