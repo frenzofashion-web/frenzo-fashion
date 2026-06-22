@@ -9,23 +9,23 @@ const FRENZO_LOOKBOOK = {
   looks: [
     {
       id: "look-001",
-      title: "THE LINEN EDIT",
-      subtitle: "Relaxed Tailoring",
+      title: "THE CASUAL MENSWEAR",
+      subtitle: "Olive Green Sophistication",
       season: "mens",
       // Supports both external URLs and local paths (e.g. images/filename.jpg)
       image: "images/olive-green.webp",
-      alt: "Model wearing beige linen blazer with cream wide-leg trousers",
+      alt: "Olive green sophistication with modern basics",
       products: [
         {
           id: "prod-001",
           index: 1,
-          label: "SHOP THE BLAZER",
-          name: "Relaxed Linen Blazer",
+          label: "SHOP THE SHIRT",
+          name: "Glowic Men's Plain Casual Shirt",
           tagline: "Effortlessly tailored linen for warm days",
           brand: "FRENZO Selection",
           image: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE01?tag=frenzo-20",
-          category: "outerwear"
+          affiliateUrl: "https://amzn.to/4uJP0rP",
+          category: "Shirt"
         },
         {
           id: "prod-002",
