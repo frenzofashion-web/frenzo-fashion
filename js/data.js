@@ -13,7 +13,7 @@ const FRENZO_LOOKBOOK = {
       subtitle: "Olive Green Sophistication",
       season: "mens",
       // Supports both external URLs and local paths (e.g. images/filename.jpg)
-      image: "images/olive-green.webp",
+      image: "images/001/olive-green.webp",
       alt: "Olive green sophistication with modern basics",
       products: [
         {
@@ -23,7 +23,7 @@ const FRENZO_LOOKBOOK = {
           name: "Glowic Men's Plain Casual Shirt",
           tagline: "Effortlessly tailored linen for warm days",
           brand: "FRENZO Selection",
-          image: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=200&h=250&fit=crop&q=80",
+          image: "images/001/shirt.webp",
           affiliateUrl: "https://amzn.to/4uJP0rP",
           category: "Shirt"
         },
