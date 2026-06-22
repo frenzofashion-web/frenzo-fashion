@@ -11,9 +11,9 @@ const FRENZO_LOOKBOOK = {
       id: "look-001",
       title: "THE LINEN EDIT",
       subtitle: "Relaxed Tailoring",
-      season: "womens",
+      season: "mens",
       // Supports both external URLs and local paths (e.g. images/filename.jpg)
-      image: "images/womens1.jpg",
+      image: "images/olive-green.webp",
       alt: "Model wearing beige linen blazer with cream wide-leg trousers",
       products: [
         {
