@@ -30,20 +30,20 @@ const FRENZO_LOOKBOOK = {
         {
           id: "prod-002",
           index: 2,
-          label: "SHOP THE TOP",
-          name: "Silk Camisole",
-          tagline: "Lightweight silk with a luxurious drape",
+          label: "SHOP THE PANT",
+          name: "Highlander Men Jeans",
+          tagline: "Crafted For Modern Style",
           brand: "FRENZO Essentials",
           image: "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE02?tag=frenzo-20",
-          category: "tops"
+          affiliateUrl: "https://amzn.to/43Pchha",
+          category: "pant"
         },
         {
           id: "prod-003",
           index: 3,
-          label: "SHOP THE TROUSERS",
+          label: "SHOP THE SHOES",
           name: "Wide-Leg Linen Trousers",
-          tagline: "Relaxed silhouette, breathable all day",
+          tagline: "Urban Stance set for everyday pace",
           brand: "FRENZO Selection",
           image: "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=200&h=250&fit=crop&q=80",
           affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE03?tag=frenzo-20",
@@ -52,13 +52,13 @@ const FRENZO_LOOKBOOK = {
         {
           id: "prod-004",
           index: 4,
-          label: "SHOP THE SHOES",
-          name: "Pointed Leather Heels",
-          tagline: "Sleek pointed toe, Italian-inspired design",
+          label: "SHOP THE WATCH",
+          name: "Sonata Black Analog",
+          tagline: "Sleek Quartz Analog Black Dial Black Leather Strap",
           brand: "FRENZO Footwear",
           image: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE04?tag=frenzo-20",
-          category: "shoes"
+          affiliateUrl: "https://amzn.to/3QuJBqL",
+          category: "watch"
         }
       ]
     },
