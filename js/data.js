@@ -68,52 +68,41 @@ const FRENZO_LOOKBOOK = {
       subtitle: "Elegance in every layer",
       season: "womens",
       // Supports both external URLs and local paths (e.g. images/filename.jpg)
-      image: "images/mens1.jpg",
-      alt: "Model wearing charcoal overcoat with black turtleneck",
+      image: "images/002/baegi_kurti.webp",
+      alt: "Delicate details crafted for timeless grace.",
       products: [
         {
           id: "prod-005",
           index: 1,
-          label: "SHOP THE COAT",
-          name: "Wool Blend Overcoat",
-          tagline: "Premium wool, structured and refined",
-          brand: "FRENZO Premium",
-          image: "https://images.unsplash.com/photo-1544923246-77307dd270b1?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE05?tag=frenzo-20",
-          category: "outerwear"
+          label: "SHOP THE KURTI",
+          name: "Ethnic Dress",
+          tagline: "Women Solid Flared Anarkali Gown with Dupatta",
+          brand: "FRENZO Selection",
+          image: "images/002/beige-kurti_set.webp",
+          affiliateUrl: "https://amzn.to/4nVRTE7",
+          category: "kurti"
         },
         {
           id: "prod-006",
           index: 2,
-          label: "SHOP THE KNIT",
-          name: "Merino Turtleneck",
-          tagline: "Ultra-fine merino, soft against the skin",
-          brand: "FRENZO Essentials",
-          image: "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE06?tag=frenzo-20",
-          category: "knitwear"
+          label: "SHOP THE SANDALS",
+          name: "Women's Stylish Heels",
+          tagline: "Premium women's 'desk to dinner' open toe sandals",
+          brand: "FRENZO Selection",
+          image: "images/002/002_sandles.webp",
+          affiliateUrl: "https://amzn.to/4xS85uX",
+          category: "Sandals"
         },
         {
           id: "prod-007",
           index: 3,
-          label: "SHOP THE TROUSERS",
-          name: "Tailored Navy Trousers",
-          tagline: "Sharp navy cut with a modern slim fit",
+          label: "SHOP THE WATCH",
+          name: "LOUIS DEVIN",
+          tagline: "Rose Gold Plated Mesh Chain Analog Wrist Watch for Women",
           brand: "FRENZO Selection",
-          image: "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE07?tag=frenzo-20",
-          category: "bottoms"
-        },
-        {
-          id: "prod-008",
-          index: 4,
-          label: "SHOP THE BOOTS",
-          name: "Leather Chelsea Boots",
-          tagline: "Classic Chelsea silhouette in full-grain leather",
-          brand: "FRENZO Footwear",
-          image: "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE08?tag=frenzo-20",
-          category: "shoes"
+          image: "images/002/002_watch.webp",
+          affiliateUrl: "https://amzn.to/4uXFlOH",
+          category: "Watch"
         }
       ]
     },
