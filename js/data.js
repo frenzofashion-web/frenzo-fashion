@@ -34,7 +34,7 @@ const FRENZO_LOOKBOOK = {
           name: "Highlander Men Jeans",
           tagline: "Crafted For Modern Style",
           brand: "FRENZO Selection",
-          image: "image/001/pant.webp",
+          image: "images/001/pant.webp",
           affiliateUrl: "https://amzn.to/43Pchha",
           category: "pant"
         },
@@ -45,7 +45,7 @@ const FRENZO_LOOKBOOK = {
           name: "Wide-Leg Linen Trousers",
           tagline: "Urban Stance set for everyday pace",
           brand: "FRENZO Selection",
-          image: "image/001/shoes.webp",
+          image: "images/001/shoes.webp",
           affiliateUrl: "https://amzn.to/3QDv4ci",
           category: "shoes"
         },
@@ -56,7 +56,7 @@ const FRENZO_LOOKBOOK = {
           name: "Sonata Black Analog",
           tagline: "Sleek Quartz Analog Black Dial Black Leather Strap",
           brand: "FRENZO Selection",
-          image: "image/001/watch.webp",
+          image: "images/001/watch.webp",
           affiliateUrl: "https://amzn.to/3QuJBqL",
           category: "watch"
         }
