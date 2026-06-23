@@ -64,9 +64,9 @@ const FRENZO_LOOKBOOK = {
     },
     {
       id: "look-002",
-      title: "DARK MINIMALISM",
-      subtitle: "Monochrome Layers",
-      season: "mens",
+      title: "SOFT ELEGANCE",
+      subtitle: "Elegance in every layer",
+      season: "womens",
       // Supports both external URLs and local paths (e.g. images/filename.jpg)
       image: "images/mens1.jpg",
       alt: "Model wearing charcoal overcoat with black turtleneck",
