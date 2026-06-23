@@ -43,7 +43,7 @@ const FRENZO_LOOKBOOK = {
           index: 3,
           label: "SHOP THE SHOES",
           name: "Wide-Leg Linen Trousers",
-          tagline: "Urban Stance set for everyday pace",
+          tagline: "U.S. Polo Assn",
           brand: "FRENZO Selection",
           image: "images/001/shoes.webp",
           affiliateUrl: "https://amzn.to/3QDv4ci",
