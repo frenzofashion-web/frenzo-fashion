@@ -108,44 +108,44 @@ const FRENZO_LOOKBOOK = {
     },
     {
       id: "look-003",
-      title: "AUTUMN WARMTH",
-      subtitle: "Earthy Textures",
-      season: "womens",
-      image: "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=800&h=1067&fit=crop&q=80",
-      alt: "Model wearing camel cashmere sweater with chocolate midi skirt",
+      title: "ROYAL PURPLE",
+      subtitle: "Premium Casual Shirt Collection",
+      season: "mens",
+      image: "images/003/purple.webp",
+      alt: "Modern Fit • Soft Fabric • All-Day Comfort",
       products: [
         {
           id: "prod-009",
           index: 1,
-          label: "SHOP THE SWEATER",
-          name: "Oversized Cashmere Knit",
-          tagline: "Pure cashmere in an oversized cozy cut",
-          brand: "FRENZO Premium",
-          image: "https://images.unsplash.com/photo-1434389677669-e08b4cda3a07?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE09?tag=frenzo-20",
-          category: "knitwear"
+          label: "SHOP THE SHIRT",
+          name: "Cotton Blend Shirt",
+          tagline: "Crafted for Comfort. Designed for Style.",
+          brand: "FRENZO Selection",
+          image: "images/003/purple shirt.webp",
+          affiliateUrl: "https://amzn.to/4aqcFX8",
+          category: "Shirt"
         },
         {
           id: "prod-010",
           index: 2,
-          label: "SHOP THE SKIRT",
-          name: "Pleated Midi Skirt",
-          tagline: "Fluid pleats in a rich chocolate tone",
+          label: "SHOP THE PANT",
+          name: "PURE WHITE",
+          tagline: "Tailored for Everyday Confidence",
           brand: "FRENZO Selection",
-          image: "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE10?tag=frenzo-20",
-          category: "bottoms"
+          image: "images/003/white pant.webp",
+          affiliateUrl: "https://amzn.to/4wecwys",
+          category: "Pant"
         },
         {
           id: "prod-011",
           index: 3,
-          label: "SHOP THE BOOTS",
-          name: "Suede Knee-High Boots",
-          tagline: "Luxe suede reaching just above the knee",
+          label: "SHOP THE SHOES",
+          name: "U.S. POLO ASSN",
+          tagline: "Wide-Leg Linen Trousers",
           brand: "FRENZO Footwear",
-          image: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE11?tag=frenzo-20",
-          category: "shoes"
+          image: "images/003/shoes.webp",
+          affiliateUrl: "https://amzn.to/44wXNCL",
+          category: "Shoes"
         }
       ]
     },
