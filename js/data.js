@@ -146,7 +146,17 @@ const FRENZO_LOOKBOOK = {
           image: "images/003/shoes.webp",
           affiliateUrl: "https://amzn.to/44wXNCL",
           category: "Shoes"
-        }
+        },
+        {
+          id: "prod-012",
+          index: 4,
+          label: "SHOP THE WATCH",
+          name: "SONATA",
+          tagline: "PRECISION. STYLE. CONFIDENCE.",
+          brand: "FRENZO Selection",
+          image: "images/003/watch.webp",
+          affiliateUrl: "https://amzn.to/4wj03tv",
+          category: "Watch"
       ]
     },
     {
@@ -159,7 +169,7 @@ const FRENZO_LOOKBOOK = {
       alt: "Model wearing cream linen shirt with olive chinos",
       products: [
         {
-          id: "prod-012",
+          id: "prod-013",
           index: 1,
           label: "SHOP THE SHIRT",
           name: "Linen Button-Down",
@@ -170,7 +180,7 @@ const FRENZO_LOOKBOOK = {
           category: "tops"
         },
         {
-          id: "prod-013",
+          id: "prod-014",
           index: 2,
           label: "SHOP THE CHINOS",
           name: "Relaxed Cotton Chinos",
@@ -181,7 +191,7 @@ const FRENZO_LOOKBOOK = {
           category: "bottoms"
         },
         {
-          id: "prod-014",
+          id: "prod-015",
           index: 3,
           label: "SHOP THE SNEAKERS",
           name: "Minimal Leather Sneakers",
@@ -202,7 +212,7 @@ const FRENZO_LOOKBOOK = {
       alt: "Model wearing champagne silk slip dress with draped cardigan",
       products: [
         {
-          id: "prod-015",
+          id: "prod-016",
           index: 1,
           label: "SHOP THE DRESS",
           name: "Silk Slip Dress",
@@ -213,7 +223,7 @@ const FRENZO_LOOKBOOK = {
           category: "dresses"
         },
         {
-          id: "prod-016",
+          id: "prod-017",
           index: 2,
           label: "SHOP THE CARDIGAN",
           name: "Draped Knit Cardigan",
@@ -224,7 +234,7 @@ const FRENZO_LOOKBOOK = {
           category: "knitwear"
         },
         {
-          id: "prod-017",
+          id: "prod-018",
           index: 3,
           label: "SHOP THE SANDALS",
           name: "Strappy Leather Sandals",
@@ -245,7 +255,7 @@ const FRENZO_LOOKBOOK = {
       alt: "Model wearing denim jacket with white tee and tailored trousers",
       products: [
         {
-          id: "prod-018",
+          id: "prod-019",
           index: 1,
           label: "SHOP THE JACKET",
           name: "Washed Denim Jacket",
@@ -256,7 +266,7 @@ const FRENZO_LOOKBOOK = {
           category: "outerwear"
         },
         {
-          id: "prod-019",
+          id: "prod-020",
           index: 2,
           label: "SHOP THE TEE",
           name: "Heavyweight Cotton Tee",
@@ -267,7 +277,7 @@ const FRENZO_LOOKBOOK = {
           category: "tops"
         },
         {
-          id: "prod-020",
+          id: "prod-021",
           index: 3,
           label: "SHOP THE TROUSERS",
           name: "Pleated Wide Trousers",
@@ -278,7 +288,7 @@ const FRENZO_LOOKBOOK = {
           category: "bottoms"
         },
         {
-          id: "prod-021",
+          id: "prod-022",
           index: 4,
           label: "SHOP THE LOAFERS",
           name: "Suede Penny Loafers",
