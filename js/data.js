@@ -162,45 +162,23 @@ const FRENZO_LOOKBOOK = {
     },
     {
       id: "look-004",
-      title: "SUMMER EASE",
-      subtitle: "Casual Refinement",
+      title: "RUBY RED",
+      subtitle: "Premium Princess Dress",
       season: "kids",
       // Supports both external URLs and local paths (e.g. images/filename.jpg)
-      image: "images/kids1.jpg",
-      alt: "Model wearing cream linen shirt with olive chinos",
+      image: "images/004/red_little_girl_fork.webp",
+      alt: "Designed to Shine with Every Smile",
       products: [
         {
           id: "prod-013",
           index: 1,
-          label: "SHOP THE SHIRT",
-          name: "Linen Button-Down",
-          tagline: "Breezy linen in a relaxed button-down cut",
-          brand: "FRENZO Essentials",
-          image: "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE12?tag=frenzo-20",
-          category: "tops"
-        },
-        {
-          id: "prod-014",
-          index: 2,
-          label: "SHOP THE CHINOS",
-          name: "Relaxed Cotton Chinos",
-          tagline: "Soft cotton chino with an easy relaxed fit",
+          label: "SHOP THE FROCK",
+          name: "Niren Rollar Frock",
+          tagline: "Soft Fabric • Perfect Fit • Premium Finish",
           brand: "FRENZO Selection",
-          image: "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE13?tag=frenzo-20",
-          category: "bottoms"
-        },
-        {
-          id: "prod-015",
-          index: 3,
-          label: "SHOP THE SNEAKERS",
-          name: "Minimal Leather Sneakers",
-          tagline: "Clean leather profile, effortlessly minimal",
-          brand: "FRENZO Footwear",
-          image: "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE14?tag=frenzo-20",
-          category: "shoes"
+          image: "images/004/Dress.webp",
+          affiliateUrl: "https://amzn.to/4uKpGDa",
+          category: "Frock"
         }
       ]
     },
@@ -213,7 +191,7 @@ const FRENZO_LOOKBOOK = {
       alt: "Model wearing champagne silk slip dress with draped cardigan",
       products: [
         {
-          id: "prod-016",
+          id: "prod-014",
           index: 1,
           label: "SHOP THE DRESS",
           name: "Silk Slip Dress",
@@ -224,7 +202,7 @@ const FRENZO_LOOKBOOK = {
           category: "dresses"
         },
         {
-          id: "prod-017",
+          id: "prod-015",
           index: 2,
           label: "SHOP THE CARDIGAN",
           name: "Draped Knit Cardigan",
@@ -235,7 +213,7 @@ const FRENZO_LOOKBOOK = {
           category: "knitwear"
         },
         {
-          id: "prod-018",
+          id: "prod-016",
           index: 3,
           label: "SHOP THE SANDALS",
           name: "Strappy Leather Sandals",
@@ -256,7 +234,7 @@ const FRENZO_LOOKBOOK = {
       alt: "Model wearing denim jacket with white tee and tailored trousers",
       products: [
         {
-          id: "prod-019",
+          id: "prod-017",
           index: 1,
           label: "SHOP THE JACKET",
           name: "Washed Denim Jacket",
@@ -267,7 +245,7 @@ const FRENZO_LOOKBOOK = {
           category: "outerwear"
         },
         {
-          id: "prod-020",
+          id: "prod-018",
           index: 2,
           label: "SHOP THE TEE",
           name: "Heavyweight Cotton Tee",
@@ -278,7 +256,7 @@ const FRENZO_LOOKBOOK = {
           category: "tops"
         },
         {
-          id: "prod-021",
+          id: "prod-019",
           index: 3,
           label: "SHOP THE TROUSERS",
           name: "Pleated Wide Trousers",
@@ -289,7 +267,7 @@ const FRENZO_LOOKBOOK = {
           category: "bottoms"
         },
         {
-          id: "prod-022",
+          id: "prod-020",
           index: 4,
           label: "SHOP THE LOAFERS",
           name: "Suede Penny Loafers",
