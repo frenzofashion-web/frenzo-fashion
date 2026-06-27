@@ -160,7 +160,7 @@ const FRENZO_LOOKBOOK = {
         }
       ]
     },
-     {
+    {
       id: "look-004",
       title: "SUMMER EASE",
       subtitle: "Casual Refinement",
