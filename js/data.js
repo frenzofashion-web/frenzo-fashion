@@ -157,9 +157,10 @@ const FRENZO_LOOKBOOK = {
           image: "images/003/watch.webp",
           affiliateUrl: "https://amzn.to/4wj03tv",
           category: "Watch"
+        }
       ]
     },
-    {
+     {
       id: "look-004",
       title: "SUMMER EASE",
       subtitle: "Casual Refinement",
