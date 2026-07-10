@@ -33,7 +33,7 @@ const FRENZO_LOOKBOOK = {
           name: "FLAYING Men",
           tagline: "Maroon Premium Shirt",
           brand: "FRENZO Selection",
-          image: "images/006/pant(1).webp",
+          image: "images/003/white pant.webp",
           affiliateUrl: "https://fktr.in/nwX55rr",
           category: "Pant"
         },
