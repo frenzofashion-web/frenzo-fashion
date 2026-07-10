@@ -7,6 +7,49 @@ const FRENZO_LOOKBOOK = {
   collection: "Spring/Summer 2025",
   brand: "FRENZO",
   looks: [
+     {
+      id: "look-006",
+      title: "THE MAROON ESSENTIALS",
+      subtitle: "Smart Casual, Perfected",
+      season: "mens",
+      image: "images/006/maroon.webp",
+      alt: "A versatile outfit that balances confidence elegance.",
+      products: [
+        {
+          id: "prod-014",
+          index: 1,
+          label: "SHOP THE SHIRT",
+          name: "AVR Men Regular Fit",
+          tagline: "Solid Spread Collar Casual Shirt",
+          brand: "FRENZO Selection",
+          image: "images/006/shirt.webp",
+          affiliateUrl: "https://fktr.in/1rLC39B",
+          category: "Shirt"
+        },
+        {
+          id: "prod-015",
+          index: 2,
+          label: "SHOP THE PANT",
+          name: "FLAYING Men",
+          tagline: "Maroon Premium Shirt",
+          brand: "FRENZO Selection",
+          image: "images/006/pant(1).webp",
+          affiliateUrl: "https://fktr.in/nwX55rr",
+          category: "Pant"
+        },
+        {
+          id: "prod-016",
+          index: 3,
+          label: "SHOP THE SHOES",
+          name: "U.S. POLO ASSN",
+          tagline: "Delicate leather straps, all-day comfort",
+          brand: "FRENZO Footwear",
+          image: "images/006/shoes.webp",
+          affiliateUrl: "https://fktr.in/drw2Z22",
+          category: "Shoes"
+        }
+      ]
+    }, 
     {
       id: "look-001",
       title: "THE CASUAL MENSWEAR",
@@ -179,49 +222,6 @@ const FRENZO_LOOKBOOK = {
           image: "images/004/Dress.webp",
           affiliateUrl: "https://amzn.to/4uKpGDa",
           category: "Frock"
-        }
-      ]
-    },
-    {
-      id: "look-005",
-      title: "THE SILK HOUR",
-      subtitle: "Evening Minimal",
-      season: "couples",
-      image: "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&h=1067&fit=crop&q=80",
-      alt: "Model wearing champagne silk slip dress with draped cardigan",
-      products: [
-        {
-          id: "prod-014",
-          index: 1,
-          label: "SHOP THE DRESS",
-          name: "Silk Slip Dress",
-          tagline: "Champagne silk with a fluid bias cut",
-          brand: "FRENZO Premium",
-          image: "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE15?tag=frenzo-20",
-          category: "dresses"
-        },
-        {
-          id: "prod-015",
-          index: 2,
-          label: "SHOP THE CARDIGAN",
-          name: "Draped Knit Cardigan",
-          tagline: "Open-front drape for effortless layering",
-          brand: "FRENZO Essentials",
-          image: "https://images.unsplash.com/photo-1434389677669-e08b4cda3a07?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE16?tag=frenzo-20",
-          category: "knitwear"
-        },
-        {
-          id: "prod-016",
-          index: 3,
-          label: "SHOP THE SANDALS",
-          name: "Strappy Leather Sandals",
-          tagline: "Delicate leather straps, all-day comfort",
-          brand: "FRENZO Footwear",
-          image: "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE17?tag=frenzo-20",
-          category: "shoes"
         }
       ]
     },
