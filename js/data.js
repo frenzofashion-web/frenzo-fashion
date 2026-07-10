@@ -9,6 +9,104 @@ const FRENZO_LOOKBOOK = {
   looks: [
      {
       id: "look-006",
+      title: "COUPLE ESSENTIALS",
+      subtitle: "Curated Couple Looks",
+      season: "couple",
+      image: "images/005/couples.webp",
+      alt: "A refined blend of contemporary fashion and minimal luxury",
+      products: [
+        {
+          id: "prod-017",
+          index: 1,
+          label: "SHOP THE KURTI",
+          name: "Shivifashion Floral",
+          tagline: "Classic comfort meets contemporary style",
+          brand: "FRENZO Selection",
+          image: "images/005/kur.webp",
+          affiliateUrl: "https://fktr.in/ZItHqIo",
+          category: "kurti"
+        },
+        {
+          id: "prod-018",
+          index: 2,
+          label: "SHOP THE PALAZZOS",
+          name: "Amazplus",
+          tagline: "Women Flared White Lycra Blend Trousers",
+          brand: "FRENZO Selection",
+          image: "images/005/p.webp",
+          affiliateUrl: "https://fktr.in/ZGyKA55",
+          category: "Palazzos"
+        },
+        {
+          id: "prod-019",
+          index: 3,
+          label: "SHOP THE SHIRT",
+          name: "DarkSquare Men Regular Fit",
+          tagline: "Men Regular Fit Solid Spread Collar Casual Shirt",
+          brand: "FRENZO Selection",
+          image: "images/005/sh.webp",
+          affiliateUrl: "https://fktr.in/wASLza6",
+          category: "Shirt"
+        },
+        {
+          id: "prod-020",
+          index: 4,
+          label: "SHOP THE PANT",
+          name: "SAVAYO Men Trousers",
+          tagline: "Men Loose Fit White Polyester Trousers",
+          brand: "FRENZO Selection",
+          image: "images/005/menpa.webp",
+          affiliateUrl: "https://fktr.in/3vs8DSb",
+          category: "Pant"
+        },
+        {
+          id: "prod-021",
+          index: 5,
+          label: "SHOP THE SANDAL",
+          name: "FIONA Women Heels Sandal",
+          tagline: "Stylish Women’s Block Heel Slippers",
+          brand: "FRENZO Selection",
+          image: "images/005/sa.webp",
+          affiliateUrl: "https://fktr.in/wcLuovh",
+          category: "Sandles"
+        },
+        {
+          id: "prod-022",
+          index: 6,
+          label: "SHOP THE SHOES",
+          name: "U.S. POLO ASSN",
+          tagline: "Fashion And Retro Inspired Sneakers.",
+          brand: "FRENZO Selection",
+          image: "images/006/shoes.webp",
+          affiliateUrl: "https://fktr.in/2Q4tbHB",
+          category: "Shoes"
+        },
+        {
+          id: "prod-023",
+          index: 7,
+          label: "SHOP THE WATCH",
+          name: "Daniel Radcliffe Watch",
+          tagline: "Round Rose Gold Analog Watch For Women.",
+          brand: "FRENZO Selection",
+          image: "images/005/wa.webp",
+          affiliateUrl: "https://fktr.in/c9VFkiD",
+          category: "watch"
+        },
+        {
+          id: "prod-024",
+          index: 8,
+          label: "SHOP THE WATCH",
+          name: "Joker & Witch Analog Watch",
+          tagline: "Watch With Timeless And Stylish Design",
+          brand: "FRENZO Selection",
+          image: "images/005/menwa.webp",
+          affiliateUrl: "https://fktr.in/e0DcVmn",
+          category: "watch"
+        }
+      ]
+     }
+     {
+      id: "look-006",
       title: "THE MAROON ESSENTIALS",
       subtitle: "Smart Casual, Perfected",
       season: "mens",
@@ -222,60 +320,6 @@ const FRENZO_LOOKBOOK = {
           image: "images/004/Dress.webp",
           affiliateUrl: "https://amzn.to/4uKpGDa",
           category: "Frock"
-        }
-      ]
-    },
-    {
-      id: "look-006",
-      title: "URBAN LAYER",
-      subtitle: "Casual Structure",
-      season: "mens",
-      image: "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?w=800&h=1067&fit=crop&q=80",
-      alt: "Model wearing denim jacket with white tee and tailored trousers",
-      products: [
-        {
-          id: "prod-017",
-          index: 1,
-          label: "SHOP THE JACKET",
-          name: "Washed Denim Jacket",
-          tagline: "Vintage-wash denim with structured shoulders",
-          brand: "FRENZO Selection",
-          image: "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE18?tag=frenzo-20",
-          category: "outerwear"
-        },
-        {
-          id: "prod-018",
-          index: 2,
-          label: "SHOP THE TEE",
-          name: "Heavyweight Cotton Tee",
-          tagline: "240gsm cotton with a clean boxy silhouette",
-          brand: "FRENZO Essentials",
-          image: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE19?tag=frenzo-20",
-          category: "tops"
-        },
-        {
-          id: "prod-019",
-          index: 3,
-          label: "SHOP THE TROUSERS",
-          name: "Pleated Wide Trousers",
-          tagline: "High-waist pleats with an elegant wide leg",
-          brand: "FRENZO Selection",
-          image: "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE20?tag=frenzo-20",
-          category: "bottoms"
-        },
-        {
-          id: "prod-020",
-          index: 4,
-          label: "SHOP THE LOAFERS",
-          name: "Suede Penny Loafers",
-          tagline: "Velvety suede with a timeless penny strap",
-          brand: "FRENZO Footwear",
-          image: "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?w=200&h=250&fit=crop&q=80",
-          affiliateUrl: "https://www.amazon.com/dp/B0EXAMPLE21?tag=frenzo-20",
-          category: "shoes"
         }
       ]
     }
