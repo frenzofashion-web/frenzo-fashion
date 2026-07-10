@@ -104,7 +104,7 @@ const FRENZO_LOOKBOOK = {
           category: "watch"
         }
       ]
-     }
+     },
      {
       id: "look-006",
       title: "THE MAROON ESSENTIALS",
