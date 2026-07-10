@@ -11,7 +11,7 @@ const FRENZO_LOOKBOOK = {
       id: "look-005",
       title: "COUPLE ESSENTIALS",
       subtitle: "Curated Couple Looks",
-      season: "couple",
+      season: "couples",
       image: "images/005/couples.webp",
       alt: "A refined blend of contemporary fashion and minimal luxury",
       products: [
