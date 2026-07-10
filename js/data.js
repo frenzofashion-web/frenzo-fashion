@@ -8,7 +8,7 @@ const FRENZO_LOOKBOOK = {
   brand: "FRENZO",
   looks: [
      {
-      id: "look-006",
+      id: "look-005",
       title: "COUPLE ESSENTIALS",
       subtitle: "Curated Couple Looks",
       season: "couple",
