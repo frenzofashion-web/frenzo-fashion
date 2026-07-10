@@ -12,7 +12,7 @@ const FRENZO_LOOKBOOK = {
       title: "THE MAROON ESSENTIALS",
       subtitle: "Smart Casual, Perfected",
       season: "mens",
-      image: "images/006/maroon.webp",
+      image: "images/006/ma.webp",
       alt: "A versatile outfit that balances confidence elegance.",
       products: [
         {
