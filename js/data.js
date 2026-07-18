@@ -8,6 +8,61 @@ const FRENZO_LOOKBOOK = {
   brand: "FRENZO",
   looks: [
      {
+      id: "look-007",
+      title: "THE TEXTURED ESSENTIALS",
+      subtitle: "Premium Texture. Effortless Style.",
+      season: "mens",
+      // Supports both external URLs and local paths (e.g. images/filename.jpg)
+      image: "images/007/beigeoutfit.webp",
+      alt: "Crafted for Everyday Sophistication",
+      products: [
+        {
+          id: "prod-025",
+          index: 1,
+          label: "SHOP THE SHIRT",
+          name: "Men Textured Checkered Shirt",
+          tagline: "ull Sleeve Casual Cotton Blend Fit Shirt",
+          brand: "FRENZO Selection",
+          image: "images/007/shirt.webp",
+          affiliateUrl: "https://bitli.in/dX4E636",
+          category: "shirt"
+        },
+        {
+          id: "prod-026",
+          index: 2,
+          label: "SHOP THE PANT",
+          name: "Premium Oversized Baggy",
+          tagline: "Oversized Wide Leg Baggy",
+          brand: "FRENZO Selection",
+          image: "images/007/pant.webp",
+          affiliateUrl: "https://bitli.in/tvt2wgc",
+          category: "pant"
+        },
+        {
+          id: "prod-027",
+          index: 3,
+          label: "SHOP THE SHOES",
+          name: "Wide-Leg Linen Trousers",
+          tagline: "U.S. Polo Assn",
+          brand: "FRENZO Selection",
+          image: "images/001/shoes.webp",
+          affiliateUrl: "https://amzn.to/3QDv4ci",
+          category: "shoes"
+        },
+        {
+          id: "prod-004",
+          index: 4,
+          label: "SHOP THE WATCH",
+          name: "Sonata Black Analog",
+          tagline: "Sleek Quartz Analog Black Dial Black Leather Strap",
+          brand: "FRENZO Selection",
+          image: "images/001/watch.webp",
+          affiliateUrl: "https://amzn.to/3QuJBqL",
+          category: "watch"
+        }
+      ]
+     },
+     {
       id: "look-005",
       title: "COUPLE ESSENTIALS",
       subtitle: "Curated Couple Looks",
