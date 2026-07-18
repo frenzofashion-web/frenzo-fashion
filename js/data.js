@@ -13,7 +13,7 @@ const FRENZO_LOOKBOOK = {
       subtitle: "Premium Texture. Effortless Style.",
       season: "mens",
       // Supports both external URLs and local paths (e.g. images/filename.jpg)
-      image: "images/007/beigeoutfit.webp",
+      image: "images/007/outfit.webp",
       alt: "Crafted for Everyday Sophistication",
       products: [
         {
